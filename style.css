@@ -8,6 +8,6 @@ h1{
     transition: color .5s ease-in-out;
 }
 
-.clicked{
-    color: tomato;
+.hidden{
+    display: none;
 }
